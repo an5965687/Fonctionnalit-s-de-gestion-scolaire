@@ -1,4 +1,4 @@
-School Manager-Fonctionnalités de gestion Scolaire
+School Manager-Fonctionnalités de gestion Scolaire 
 1.Gestion des utilisateurs
 -Elèves,enseignants,parents.
 -Ionformations personnelles et professionnelles(spécialités,diplomes).
